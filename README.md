@@ -1,2 +1,2 @@
-# RamazSafin.io
+# RamazSafin.github.io
 сайт по учебной практике
